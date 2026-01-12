@@ -1,0 +1,17 @@
+We are looking for a Machine Learning Engineer with strong programming and analytical skills.
+
+Required Skills:
+- Proficiency in Python and SQL
+- Strong understanding of Machine Learning and Deep Learning concepts
+- Experience with data analysis and data preprocessing
+- Hands-on experience with NumPy, Pandas, and Scikit-learn
+- Familiarity with TensorFlow or PyTorch
+- Knowledge of Natural Language Processing (NLP) is a plus
+- Experience working with Linux environments
+- Version control using Git
+
+Responsibilities:
+- Build and optimize machine learning models
+- Analyze large datasets to extract insights
+- Collaborate with cross-functional teams
+- Deploy and maintain ML pipelines
